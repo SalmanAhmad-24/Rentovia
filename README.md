@@ -1,0 +1,1 @@
+Developed a web application for our group DBMS course project, Rentovia, enabling institute students to buy, sell, and rent items. PostgreSQL was used to store product and customer data, while Prisma ORM efficiently managed database interactions.
